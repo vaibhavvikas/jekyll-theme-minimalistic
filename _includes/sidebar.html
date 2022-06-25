@@ -1,0 +1,28 @@
+<div>
+    <style scoped>
+      ul.link a {
+        color:#267CB9;
+        text-decoration:none;
+      }
+  
+      ul.link a:hover, a:focus {
+        color: #267CB9;
+      }
+    </style>
+    <br>
+    <h2>Contents:</h2>
+    <ul>
+      {%- for item in site.navigation %}
+       <li><a href="{{ item.link }}">{{ item.name }}</a>
+            {% if item.sublist %}
+            <ul class="sidebar">
+                {%- for subitem in item.sublist %}
+                <li><a href="{{ subitem.link }}">{{ subitem.name }}</a></li>
+                {%- endfor %}
+            </ul>
+            {% endif %}
+        </li>
+      {%- endfor %}
+    </ul>
+  </div>
+  
