@@ -116,8 +116,8 @@ navigation:
 
 ### Example:
 
-![Live Example](https://vaibhavvikas.github.io/jekyll-minimalistic/)
-![Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-minimalistic/tree/gh-pages)
+[Live Example](https://vaibhavvikas.github.io/jekyll-minimalistic/)
+[Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-minimalistic/tree/gh-pages)
 
 Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in _config.yml you will put it like:
 
