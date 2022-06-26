@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/jekyll-minimalistic)
 ![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at ![Minimalist](https://vaibhavvikas.github.io/jekyll-minimalistic/).
+A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at [Minimalist](https://vaibhavvikas.github.io/jekyll-minimalistic/).
 
 ## Usage
 
