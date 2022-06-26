@@ -1,6 +1,11 @@
 # jekyll-minimal
 
-A fork of gh-pages minimal theme with navigation in the sidebar.
+![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-minimalistic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/jekyll-minimalistic)
+![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/jekyll-minimalistic)
+![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)
+
+A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at ![Minimalist](https://vaibhavvikas.github.io/jekyll-minimalistic/).
 
 ## Usage
 
@@ -109,7 +114,10 @@ navigation:
   - ...
 ```
 
-#### Example:
+### Example:
+
+![Live Example](https://vaibhavvikas.github.io/jekyll-minimalistic/)
+![Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-minimalistic/tree/gh-pages)
 
 Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in _config.yml you will put it like:
 
@@ -162,4 +170,3 @@ All contributions are welcome.
 ## Credits:
 
 This theme was built using [Minimalist](https://github.com/BDHU/minimalist) theme by BDHU and [Minimal](https://github.com/pages-themes/minimal) by GithHub.
- 
