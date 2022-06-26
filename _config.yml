@@ -1,19 +1,28 @@
 title: Minimalistic theme
 logo: /assets/img/logo.png
-description: Minimalistic is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimalistic
+email: something@somewhere.com
+description: Minimalistic is a theme powered by Jekyll. It is modified based on the BDHU Minimalist theme.
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 platforms:
   - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
   - name: Readme
-    link: ./readme.html
+    link: ./index.html
     sublist:
-      - name: Usage
-        link: ./readme.html#usage
-  - name: GitHub
-    link: https://github.com/vaibhavvikas
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
