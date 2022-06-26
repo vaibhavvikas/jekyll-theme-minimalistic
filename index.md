@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# jekyll-minimal
+# jekyll-minimalistic
 
 ![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-minimalistic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/jekyll-minimalistic)
@@ -120,7 +120,8 @@ navigation:
 
 ### Example:
 
-Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in _config.yml you will put it like:
+[Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-minimalistic/tree/gh-pages)
+Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in `_config.yml` you will put it like:
 
 ```yml
 navigation:
