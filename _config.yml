@@ -2,7 +2,7 @@ remote_theme: vaibhavvikas/jekyll-minimalistic
 
 title: Jekyll Minimalistic
 description: Minimalistic is a theme powered by Jekyll.
-logo: ./logo.png
+logo: ./logo.jpg
 email: vbhvvikas@gmail.com
 favicon: true
 color-scheme: auto
