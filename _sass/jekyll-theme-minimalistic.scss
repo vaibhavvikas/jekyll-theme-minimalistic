@@ -55,10 +55,6 @@ a:hover small {
   color:var(--clr-small-in-a);
 }
 
-.addr {
-  padding-top: 1em;
-}
-
 .addr a:hover, a:focus {
   text-decoration: underline;
 }
@@ -127,7 +123,7 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width:90%;
 }
 
 kbd {
@@ -208,7 +204,31 @@ hr {
   flex-basis: content;
 }
 
+
 @media print, screen and (max-width: 960px) {
+  
+  .wrapper {
+    width: 720px;
+  }
+
+  .sidebar {
+    width: 220px;
+    height: calc(100vh - 50px);  
+  }
+
+  section {
+    width: 400px;
+    float: right;
+    padding-bottom:30px;
+    padding-right: 50px;
+  }
+
+  .sidebar-footer {
+    width: auto;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
 
   .sidebar {
     float: none;
