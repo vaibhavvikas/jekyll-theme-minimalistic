@@ -208,19 +208,16 @@ hr {
 @media print, screen and (max-width: 960px) {
   
   .wrapper {
-    width: 720px;
+    width: 610px;
   }
 
   .sidebar {
-    width: 220px;
+    width: 200px;
     height: calc(100vh - 50px);  
   }
 
   section {
-    width: 400px;
-    float: right;
-    padding-bottom:30px;
-    padding-right: 50px;
+    width: 375px;
   }
 
   .sidebar-footer {
