@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-minimalistic"
   s.version       = "0.2.0"
-  s.license       = "GNU-3.0"
+  s.license       = "GPL-3.0"
   s.authors       = ["Vaibhav Vikas", "GitHub, Inc."]
   s.email         = ["vbhvvikas@gmail.com"]
   s.homepage      = "https://github.com/vaihavvikas/jekyll-minimalistic"

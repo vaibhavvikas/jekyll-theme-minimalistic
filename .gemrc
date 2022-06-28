@@ -1,0 +1,8 @@
+---
+:backtrace: false
+:bulk_threshold: 1000
+:sources:
+- https://rubygems.org/
+- https://USERNAME:TOKEN@rubygems.pkg.github.com/OWNER/
+:update_sources: true
+:verbose: true  
