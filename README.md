@@ -1,11 +1,11 @@
-# jekyll-minimalistic
+# jekyll-theme-minimalistic
 
-![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-minimalistic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/jekyll-minimalistic)
-![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/jekyll-minimalistic)
-![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-theme-minimalistic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/jekyll-theme-minimalistic)
+![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/jekyll-theme-minimalistic)
+![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at [Minimalistic](https://vaibhavvikas.github.io/jekyll-minimalistic/).
+A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at [Minimalistic](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/).
 
 ## Usage
 
@@ -28,10 +28,10 @@ plugins:
 
 Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
-3. Add the following line to your `config.yml` to use the theme
+1. Add the following line to your `config.yml` to use the theme
 
 ```yml
-remote_theme: vaibhavvikas/jekyll-minimalistic
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 ```
 
 then running `bundle exec jekyll serve` for local deployment.
@@ -116,8 +116,8 @@ navigation:
 
 ### Example:
 
-[Live Example](https://vaibhavvikas.github.io/jekyll-minimalistic/)\
-[Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-minimalistic/tree/gh-pages)
+[Live Example](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/)\
+[Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/tree/gh-pages)
 
 Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in _config.yml you will put it like:
 
@@ -153,7 +153,7 @@ Google has released several iterations to their Google Analytics code over the y
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/vaibhavvikas/jekyll-minimalistic`)
+1. Clone down the theme's repository (`git clone https://github.com/vaibhavvikas/jekyll-theme-minimalistic`)
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
