@@ -28,6 +28,7 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
   publish:
+    needs: [ build ]
     name: Publish
     runs-on: ubuntu-latest
     permissions:
