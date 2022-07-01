@@ -1,9 +1,15 @@
 # jekyll-theme-minimalistic
 
+<a href="https://jekyll-themes.com/jekyll-theme-minimalistic/">
+    <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" loading="lazy">
+</a>
+
 ![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-theme-minimalistic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/jekyll-theme-minimalistic)
 ![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/jekyll-theme-minimalistic)
+![Ruby Gem](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/gem-push.yml/badge.svg)
 ![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 
 A fork of gh-pages minimal theme with navigation in the sidebar. You can view a live demo at [Minimalistic](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/).
 
