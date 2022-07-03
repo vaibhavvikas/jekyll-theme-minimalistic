@@ -181,6 +181,10 @@ section {
   padding-bottom:30px;
 }
 
+footer {
+  display: none;
+}
+
 small {
   font-size:11px;
 }
@@ -240,6 +244,10 @@ hr {
 
   .sidebar-footer {
     display: none;
+  }
+
+  footer {
+    display: initial;
   }
 
   div.wrapper {
