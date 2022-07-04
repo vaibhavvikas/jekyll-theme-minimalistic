@@ -1,6 +1,6 @@
 @import "fonts";
-@import "rouge-github";
 @import "colors";
+@import "rouge-github";
 
 body {
   background-color: var(--clr-bg);
@@ -105,6 +105,8 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
+  display: block;
+  overflow-x: auto;
 }
 
 th, td {
