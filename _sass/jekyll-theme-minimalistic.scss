@@ -12,6 +12,25 @@ body {
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
+  animation: fadein ease-in 1s;
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+   opacity: 0.5;
+  }
+
+  75% {
+    opacity: 0.75;
+  }
+  
+  100% {
+    opacity: 1;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
