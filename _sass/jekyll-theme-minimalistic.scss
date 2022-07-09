@@ -2,6 +2,10 @@
 @import "colors";
 @import "rouge-github";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--clr-bg);
   padding:50px;
@@ -59,14 +63,39 @@ a:hover small {
   text-decoration: underline;
 }
 
+ul.link a {
+  color:var(--clr-h1-and-bold);
+  text-decoration:none;
+}
+
+ul.link a:hover, a:focus {
+  color: var(--clr-a-text-hvr);
+}
+
+ul.content {
+  margin-left: -1.4em;
+}
+
+ul.content a:hover, a:focus {
+  text-decoration: underline;
+}
+
+.sublist {
+  margin: 0 0 0;
+}
+
+ul.sublist {
+  margin-left: -1.5em;
+}
+
 p.link {
   margin:0 0 4px;
 }
 
 ul.link {
-  list-style-type: none; /* Remove bullets */
-  margin: 0; /* To remove default bottom margin */ 
-  padding: 0.4px; /* To remove default left padding */
+  list-style-type: none;
+  margin: 0;
+  padding: 0.4px;
 }
 
 ul.link li + li {
@@ -75,6 +104,10 @@ ul.link li + li {
 
 ul.link:last-child {
   margin-bottom: 6px;
+}
+
+.link-wrapper-mobile {
+  display: none !important;
 }
 
 .wrapper {
@@ -210,6 +243,19 @@ hr {
   flex-basis: content;
 }
 
+.sidebar-h3 {
+  margin: 1em 0 0.25em 0;
+}
+
+#link-wrapper-mobile a {
+  color:var(--clr-h1-and-bold);
+  text-decoration:none;
+}
+
+#link-wrapper-mobile a:hover, a:focus {
+  color: var(--clr-a-text-hvr);
+}
+
 
 @media print, screen and (max-width: 960px) {
   
@@ -233,6 +279,29 @@ hr {
 }
 
 @media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+    overflow-x: hidden;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+  .link-wrapper {
+    display: none !important;
+  }
+
+  .link-wrapper-mobile {
+    display:block !important;
+  }
+
+  .link-wrapper-mobile {
+    margin-bottom: 20px;
+  }
 
   .sidebar {
     float: none;
@@ -264,10 +333,6 @@ hr {
     overflow-x: hidden;
   }
 
-  header {
-    padding-right:320px;
-  }
-
   section {
     border:1px solid var(--clr-splitter-blockquote-and-section);
     border-width:1px 0;
@@ -286,21 +351,6 @@ hr {
 
   .logo {
     display: none !important;
-  }
-}
-
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
-    overflow-x: hidden;
-  }
-
-  header ul, header p.view {
-    position:static;
   }
 
   pre, code {
