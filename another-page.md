@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> [Minimalistic](/) >> A Sample Page**
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
