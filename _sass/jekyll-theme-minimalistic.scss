@@ -77,7 +77,7 @@ ul.content {
 }
 
 ul.content a:hover, a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .sublist {
@@ -235,11 +235,7 @@ hr {
 .sidebar-footer {
   width:250px;
   float:left;
-  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
-}
-
-.sidebar-footer {
   flex-basis: content;
 }
 
@@ -372,4 +368,3 @@ hr {
     color:#444;
   }
 }
-
