@@ -1,10 +1,15 @@
-<div class="header-title">
+{% if site.logo %}
+    <div class="header-title">
+        {% include header-title.html %}
+    </div>
+    <div class="header-title-mobile">
+        <section>
+        {% include header-title.html %}
+        </section>
+    </div>
+{% else %}
     {% include header-title.html %}
-</div>
-
-<div class="header-title-mobile">
-    {% include header-title-mobile.html %}
-</div>
+{% endif %}
 
 <p>{{ site.description | default: site.github.project_tagline }}</p>
 
