@@ -1,0 +1,13 @@
+{% if site.logo %}
+<img class="logo" src="{{ site.logo | relative_url }}" alt="Logo">
+{% endif %}
+
+{% if site.blank_title %}
+<h1>{{ site.title | default: site.github.repository_name }}</h1>
+{% else %}
+<h1>{{ site.title | default: site.github.repository_name }}</h1>
+{% endif %}
+
+{% if site.email %}
+<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
+{% endif %}
