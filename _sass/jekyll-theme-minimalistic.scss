@@ -325,7 +325,7 @@ hr {
   section {
     border: 1px solid var(--clr-splitter-blockquote-and-section);
     border-width: 1px 0;
-    padding: 0;
+    padding: 20px 0 0;
     margin: 0 0 20px;
   }
 
@@ -341,11 +341,8 @@ hr {
     display: block;
   }
 
-  .header-title-mobile h1, h2, h3, h4, h5, h6 {
-    margin: 15px 0 15px;
-  }
-
   .header-title-mobile h1 {
+    margin: 15px 0 15px;
     line-height: 1.1;
   }
   
