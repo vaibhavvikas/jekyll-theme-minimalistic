@@ -101,7 +101,6 @@ p.link {
 
 ul.link {
   list-style-type: none;
-  margin: 0;
   padding: 0.4px;
 }
 
@@ -115,6 +114,10 @@ ul.link:last-child {
 
 .link-wrapper-mobile {
   display: none !important;
+}
+
+.link-wrapper-mobile ul.link {
+  margin: 0 0 20px;
 }
 
 .wrapper {
@@ -304,6 +307,7 @@ hr {
 
   footer {
     display: initial;
+    margin: 20px 0 0;
   }
 
   div.wrapper {
@@ -321,8 +325,12 @@ hr {
   section {
     border: 1px solid var(--clr-splitter-blockquote-and-section);
     border-width: 1px 0;
-    padding: 20px 0;
+    padding: 0;
     margin: 0 0 20px;
+  }
+
+   .header-title-mobile section {
+    padding: 20px 0;
   }
 
   .header-title {
@@ -333,7 +341,7 @@ hr {
     display: block;
   }
 
-  h2, h3, h4, h5, h6 {
+  .header-title-mobile h1, h2, h3, h4, h5, h6 {
     margin: 15px 0 15px;
   }
 
@@ -352,7 +360,7 @@ hr {
 
   .logo {
     float: right;
-    width: 100px;
+    width: 110px;
     box-sizing: border-box;
     margin-bottom: 0px;
   }
