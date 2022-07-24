@@ -15,7 +15,7 @@ Minimalistic theme is based on gh-pages minimal theme, with navigation in the si
 ## Features
 1. Auto light/dark mode.
 2. Syntax Highlighting for light/dark mode.
-3. Logo Support for thr page.
+3. Logo Support for the page.
 4. Links in Sidebar.
 5. List/Sublist in Sidebar.
 6. Fully responsive with mobile support.
