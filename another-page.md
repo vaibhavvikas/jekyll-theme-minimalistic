@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 **[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> [Minimalistic](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/) >> A Sample Page**
 
