@@ -22,22 +22,22 @@ platforms:
 
 navigation:
   - name: Home Page
-    link: ./index.html
+    link: ./
     sublist:
       - name: Usage
-        link: ./index.html#usage
+        link: ./#usage
       - name: Customizing
-        link: ./index.html#customizing
+        link: ./#customizing
       - name: Customizing Sidebar
-        link: ./index.html#customizing-sidebar
+        link: ./#customizing-sidebar
       - name: Navigation
-        link: ./index.html#navigation
+        link: ./#navigation
       - name: Example
-        link: ./index.html#example
+        link: ./#example
       - name: Stylesheet
-        link: ./index.html#stylesheet
+        link: ./#stylesheet
       - name: Credits
-        link: ./index.html#credits
+        link: ./#credits
   - name: Sample
     link: ./another-page.html
     sublist:
