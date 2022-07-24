@@ -6,10 +6,13 @@
 :root {
   @include colors;
   @include dark-colors;
+  @include code-highlights;
+  @include highlights-dark;
 }
 
 @media print {
   :root {
     @include light-colors;
+    @include highlights-light;
   }
 }

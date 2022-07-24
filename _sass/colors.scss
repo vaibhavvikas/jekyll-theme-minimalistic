@@ -124,3 +124,87 @@ hvr -> hover
   --L-small-in-a: 60%;
   --L-table-header-and-dt: 90%;
 }
+
+@mixin code-highlights {
+  --clr-w-text: hsl(60, 30%, var(--L-w-text));
+  --clr-err-text: hsl(231, 15%, var(--L-err-text));
+  --clr-err-bg: hsl(326, 100%, var(--L-err-bg));
+  --clr-cd-text: hsl(232, 14%, var(--L-cd-text));
+  --clr-cp-text: hsl(135, 94%, var(--L-cp-text));
+  --clr-nt-text: hsl(135, 94%, var(--L-nt-text));
+  --clr-nn-text: hsl(135, 94%, var(--L-nn-text));
+  --clr-nc-text: hsl(135, 94%, var(--L-nn-text));
+  --clr-no-text: hsl(135, 94%, var(--L-no-text));
+  --clr-na-text: hsl(191, 97%, var(--L-na-text));
+  --clr-o-text: hsl(135, 94%, var(--L-o-text));
+  --clr-p-text: hsl(135, 94%, var(--L-p-text));
+  --clr-gi-text: hsl(65, 92%, var(--L-gi-text));
+  --clr-gd-text: hsl(326, 100%, var(--L-gd-text));
+  --clr-gh-text: hsl(191, 97%, var(--L-gh-text));
+  --clr-k-text: hsl(265, 89%, var(--L-k-text));
+  --clr-kc-text: hsl(31, 100%, var(--L-kc-text));
+  --clr-kt-text: hsl(31, 100%, var(--L-kt-text));
+  --clr-kd-text: hsl(31, 100%, var(--L-kd-text));
+  --clr-s-text: hsl(65, 92%, var(--L-s-text));
+  --clr-sr-text: hsl(191, 97%, var(--L-sr-text));
+  --clr-si-text: hsl(0, 100%, var(--L-si-text));
+  --clr-se-text: hsl(0, 100%, var(--L-se-text));
+  --clr-ss-text: hsl(65, 92%, var(--L-ss-text));
+  --clr-m-text: hsl(65, 92%, var(--L-m-text));
+}
+
+@mixin highlights-dark {
+  --L-w-text: 96%;
+  --L-err-text: 18%;
+  --L-err-bg: 74%;
+  --L-cd-text: 81%;
+  --L-cp-text: 65%;
+  --L-nt-text: 65%;
+  --L-nn-text: 65%;
+  --L-nc-text: 65%;
+  --L-no-text: 65%;
+  --L-na-text: 77%;
+  --L-0-text: 96%;
+  --L-p-text: 96%;
+  --L-gi-text: 76%;
+  --L-gd-text: 74%;
+  --L-gh-text: 77%;
+  --L-k-text: 78%;
+  --L-kc-text: 71%;
+  --L-kk-text: 71%;
+  --L-kd-text: 71%;
+  --L-s-text: 76%;
+  --L-sr-text: 77%;
+  --L-si-text: 67%;
+  --L-se-text: 67%;
+  --L-ss-text: 76%;
+  --L-m-text: 76%;
+}
+
+@mixin highlights-light {
+  --L-w-text: 46%;
+  --L-err-text: 78%;
+  --L-err-bg: 24%;
+  --L-cd-text: 21%;
+  --L-cp-text: 25%;
+  --L-nt-text: 25%;
+  --L-nn-text: 25%;
+  --L-nc-text: 25%;
+  --L-no-text: 25%;
+  --L-na-text: 37%;
+  --L-0-text: 36%;
+  --L-p-text: 36%;
+  --L-gi-text: 36%;
+  --L-gd-text: 34%;
+  --L-gh-text: 37%;
+  --L-k-text: 38%;
+  --L-kc-text: 31%;
+  --L-kk-text: 31%;
+  --L-kd-text: 31%;
+  --L-s-text: 36%;
+  --L-sr-text: 37%;
+  --L-si-text: 37%;
+  --L-se-text: 37%;
+  --L-ss-text: 46%;
+  --L-m-text: 46%;
+}

@@ -7,12 +7,15 @@
 // @media prefers-color-scheme it will default to dark mode
 :root {
     @include colors;
-    @include light-colors;
+    @include dark-colors;
+    @include code-highlights;
+    @include highlights-dark;
   }
 
 @media screen and (prefers-color-scheme: dark) {
   :root{
     @include dark-colors;
+    @include highlights-dark;
   }
 }
 
@@ -21,5 +24,6 @@
   // as that would use a lot of ink
   :root {
     @include light-colors;
+    @include highlights-light
   }
 }
