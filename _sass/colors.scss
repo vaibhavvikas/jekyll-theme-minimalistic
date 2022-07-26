@@ -182,7 +182,7 @@ hvr -> hover
 }
 
 @mixin highlights-light {
-  --L-w-text: 46%;
+  --L-w-text: 26%;
   --L-err-text: 78%;
   --L-err-bg: 24%;
   --L-cd-text: 21%;
@@ -205,6 +205,6 @@ hvr -> hover
   --L-sr-text: 37%;
   --L-si-text: 37%;
   --L-se-text: 37%;
-  --L-ss-text: 46%;
-  --L-m-text: 46%;
+  --L-ss-text: 26%;
+  --L-m-text: 26%;
 }
