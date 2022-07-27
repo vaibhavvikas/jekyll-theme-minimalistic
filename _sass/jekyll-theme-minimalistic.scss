@@ -24,6 +24,7 @@ body {
   -moz-border-radius: 100%;
   border-radius: 100%;
   margin-bottom: 10px;
+  max-width: 90%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -165,10 +166,6 @@ dt {
 
 th {
   color: var(--clr-table-header-and-dt);
-}
-
-img {
-  max-width: 90%;
 }
 
 kbd {
