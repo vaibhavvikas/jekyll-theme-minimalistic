@@ -138,7 +138,7 @@ blockquote {
 }
 
 code, pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: Consolas, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: var(--clr-code-text);
 }
 
@@ -148,6 +148,43 @@ pre {
   border-radius: 5px;
   border: 1px solid var(--clr-code-border);
   overflow-x: auto;
+}
+
+.card {
+  position: relative;
+  padding: 10px 15px;
+  margin: 25px 0;
+  border-radius: 5px;
+  color: var(--clr-text);
+  background: var(--clr-card-bg);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card h2, .card h3 {
+  margin-bottom: 2px;
+  color: var(--clr-a-text);
+}
+
+.card p {
+  margin: 0;
+}
+
+.card ul {
+  margin-left: -1.4em;
+  margin-bottom: 5px;
+}
+
+.card-link-spanner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.card:hover {
+  box-shadow: 0 4px 7px 0 rgba(0,0,0,0.2);
 }
 
 table {

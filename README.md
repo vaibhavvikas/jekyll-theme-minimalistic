@@ -21,8 +21,9 @@ Minimalistic theme is based on gh-pages minimal theme, with navigation in the si
 6. Fully responsive with mobile support.
 7. Logo/Favicon Support.
 8. Github-Pages Support.
-9. Under active development.
-10. And many more. 😁
+9. Card Support
+10. Under active development.
+11. And many more. 😁
 
 ## Usage
 
@@ -142,6 +143,18 @@ Lets say you have a file name xyz.md, you put that into the root dir. Now, add t
 navigation:
   - name: [Write name of your hyperlink]
     link: ./xyz.html
+```
+
+### Adding Card:
+
+Use the code template:
+```html
+<div class="card">
+  <h3>Some Title</h3>
+  <p><b>New Delhi</b>, India<br>
+  Some Text</p>
+  <a href="https://vaibhavvikas.ml/"><span class="card-link-spanner"></span></a>
+</div>
 ```
 
 ### Stylesheet

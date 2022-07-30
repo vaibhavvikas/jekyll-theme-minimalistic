@@ -1,12 +1,11 @@
-/*
-   theme created based on the dracula colours
-   (draculatheme.com) with auto light/dark support.
-*/
-
 @import "colors";
 
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
+.highlight table td {
+  padding: 5px;
+}
+.highlight table pre {
+  margin: 0;
+}
 .highlight, .highlight .w {
   color: var(--clr-w-text);
 }
@@ -19,12 +18,14 @@
 }
 .highlight .cp {
   color: var(--clr-cp-text);
+  font-weight: bold;
 }
 .highlight .nt {
   color: var(--clr-cp-text);
 }
 .highlight .o, .highlight .ow {
   color: var(--clr-o-text);
+  font-weight: bold;
 }
 .highlight .p, .highlight .pi {
   color: var(--clr-o-text);
@@ -39,17 +40,20 @@
   color: var(--clr-gh-text);
   font-weight: bold;
 }
-.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
+.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr {
   color: var(--clr-k-text);
+  font-weight: bold;
 }
-.highlight .kc {
+.highlight .kc, .highlight .kv {
   color: var(--clr-kc-text);
+  font-weight: bold;
 }
 .highlight .kt {
   color: var(--clr-kt-text);
 }
 .highlight .kd {
   color: var(--clr-kd-text);
+  font-weight: bold;
 }
 .highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
   color: var(--clr-s-text);
