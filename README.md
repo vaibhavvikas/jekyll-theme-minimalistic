@@ -27,6 +27,8 @@ Minimalistic theme is based on gh-pages minimal theme, with navigation in the si
 
 ## Usage
 
+You can refer to this [Wiki Link](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/wiki) if you want to use this theme for creating github pages for your own custom repository.
+
 To use the Minimalistic theme:
 
 1. Add the following line to your Gemfile
