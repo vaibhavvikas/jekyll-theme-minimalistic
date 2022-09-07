@@ -1,9 +1,9 @@
-title: Minimalistic
+title: Ksenija Kovalenka
 logo: /assets/img/logo.jpg
-email: person@address.com
+email: ksenija.kovalenka11@gmail.com
 description: Minimalistic is a theme powered by Jekyll.
 favicon: true
-color-scheme: auto
+color-scheme: dark
 
 plugins:
   - jekyll-sitemap
