@@ -23,17 +23,17 @@ navigation:
     link: ./index.html
     sublist:
       - name: Experience
-        link: ./index.html#Experience
+        link: ./index.html#experience
       - name: Education
-        link: ./index.html#Education
+        link: ./index.html#education
       - name: Awards
-        link: ./index.html#Awards
+        link: ./index.html#awards
       - name: Puplication
-        link: ./index.html#Puplication
+        link: ./index.html#puplication
       - name: Projects
-        link: ./index.html#Projects
+        link: ./index.html#projects
       - name: Volunteer
-        link: ./index.html#Volunteer
+        link: ./index.html#volunteer
       - name: Statistics
-        link: ./index.html#Statistics
+        link: ./index.html#statistics
   

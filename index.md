@@ -164,10 +164,10 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 </p>
 
 # Github Information:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=445)
 
-![](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark&card_width=400)
+![](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark&card_width=400)
+![](https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark)
 
 
