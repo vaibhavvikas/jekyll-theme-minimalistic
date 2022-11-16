@@ -95,7 +95,7 @@ I am interested in the Natural Language Processing and Generation area which is 
 
 # Puplication
 Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "Language Identification of Intra-Word Code-Switching for Arabic–English." — _Array 12 (2021): 100104._
-> http://dx.doi.org/10.1016/j.array.2021.100104
+> [http://dx.doi.org/10.1016/j.array.2021.100104](http://dx.doi.org/10.1016/j.array.2021.100104)
 <br />
 
 # Projects
@@ -159,12 +159,15 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 # Statistics:
 ## Visitors Map:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=islammesabah.visitor-badge)
-<p><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=8ab3ff&w=300&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE&co=2f3132&ct=cdd4d9&cmo=3acc3a&cmn=ff5353"></script></p>
+<p>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE"></script>
+</p>
 
 # Github Information:
-<img width=70% margin=auto display=block src ="https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark"></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=400)
 
-<img width=70% margin=auto display=block src ="https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark"></p>
+![](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark&card_width=400)
 
-<img width=70% margin=auto display=block src ="https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark"></p>
+![](https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark&card_width=400)
+
 
