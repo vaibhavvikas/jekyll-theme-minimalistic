@@ -156,15 +156,15 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 
 * Help the main Teaching assistant in teaching Data Structure and Algorithms Course
 
-<p><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=255&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE&co=579dce&ct=cdd4d9&cmo=3acc3a&cmn=ff5353"></script></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Islam Mesabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
-
-<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=islammesabah&theme=dark" width="494" height="195"  alt="aajay5" /></p>
-
-
+# Statistics:
+## Visitors Map:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=islammesabah.visitor-badge)
+<p><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=8ab3ff&w=300&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE&co=2f3132&ct=cdd4d9&cmo=3acc3a&cmn=ff5353"></script></p>
+
+# Github Information:
+<img width=70% margin=auto display=block src ="https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark"></p>
+
+<img width=70% margin=auto display=block src ="https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark"></p>
+
+<img width=70% margin=auto display=block src ="https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark"></p>
 

@@ -19,10 +19,21 @@ platforms:
     link: https://www.linkedin.com/in/islamkaloop
 
 navigation:
-  - name: Readme
+  - name: Home
     link: ./index.html
     sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: Experience
+        link: ./index.html#Experience
+      - name: Education
+        link: ./index.html#Education
+      - name: Awards
+        link: ./index.html#Awards
+      - name: Puplication
+        link: ./index.html#Puplication
+      - name: Projects
+        link: ./index.html#Projects
+      - name: Volunteer
+        link: ./index.html#Volunteer
+      - name: Statistics
+        link: ./index.html#Statistics
+  
