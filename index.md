@@ -156,3 +156,4 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 
 * Help the main Teaching assistant in teaching Data Structure and Algorithms Course
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=255&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE&co=579dce&ct=cdd4d9&cmo=3acc3a&cmn=ff5353"></script>
