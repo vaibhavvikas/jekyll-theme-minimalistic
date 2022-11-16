@@ -2,122 +2,157 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me:
 
-[Link to another page](./another-page.html).
+I am a research assistant in the Machine Learning Group at TU Kaiserslautern led by Prof. Dr. Marius Kloft and Jun.-Prof. Dr. Sophie Fellenz. I am studying Master's in Computer Science at TU Kaiserslautern. I finished my Bachelor’s degree In Computer science and engineering from The German university in Cairo(GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
 
-There should be whitespace between paragraphs.
+# Research interests:
+I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with code-switching language data, sentiment analysis, and style transfer. I am also interested in the area of autonomous vehicles.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Experience:
+**Technical University of Kaiserslautern, Kaiserslautern, Germany**  <br />
+— _Research Assistant_<br />
+**August 2022 - Present**<br />
 
-# Header 1
+* Parttime Student working job
+<br />
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**German University In Cairo, New Cairo, Egypt** <br />
+— _Research And Teaching Assistant_ <br />
+**September 2021 - June 2022** <br />
 
-## Header 2
+* Faculty of Media Engineering and Technology (MET) 
+* Department of Computer Science and Engineering (CSEN)
+* Tasks: Teaching, Remarking, Material Preparation.
+* Teach Database Systems. 8 tutorials every week.
+* Teach Concepts of Programming Languages. 7 tutorials every week.
+* Bachelor Thesis  Supervision. 4 students.
+<br />
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Robusta Studio, Cairo, Egypt**<br />
+— _Backend Developer Intern_<br />
+**August 2021 - October 2021**<br />
 
-### Header 3
+* Learned new technologies like Laravel.
+* Deal with agile web development life cycle in a real-time project.
+* Build a real-time API that handles data validation, user authentication, and crud operation into a MySQL database using Laravel.
+<br />
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**German University In Cairo, New Cairo, Egypt**<br />
+— _Undergraduate Researcher_<br />
+**August 2020 - September 2020**<br />
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* Enhance deep learning model for language identification on Arabic English CS by adding n-gram and word embedding layer.
+<br />
 
-#### Header 4
+**German University In Cairo, New Cairo, Egypt**<br />
+— _Undergraduate Researcher_<br />
+**July 2019 - September 2019**<br />
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Extend a block-based visual language for the NAO Robot to allow children to interact with it in different ways (text, speech, movement, ... etc).
+<br />
 
-##### Header 5
+# Education
+**Technical University of Kaiserslautern, Kaiserslautern, Germany**<br />
+— _M.Sc. in Computer Science_ <br />
+**April 2022 - Present**<br />
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* First Specialization:  Intelligent Systems 
+* Second Specialization:  Software Engineering
+<br />
 
-###### Header 6
+**German University in Cairo, New Cairo, Egypt**<br />
+— _B.Sc. in Computer Science_<br />
+**October 2016 - July 2021**<br />
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+* CGPA: 1.25 [Excellent with High Honors (A)].
+* Faculty of Media Engineering and Technology (MET)
+* Major: Computer Science and Engineering (CSEN)
+* Bachelor Thesis: Subword-Level Language Identification for Arabic-English Intra-Word Code-Switching
+* Bachelor Project Grade: Excellent (A+)
+<br />
 
-### There's a horizontal rule below this.
+**Rabba Althanwea, North Sinai, Egypt**<br />
+— _Secondary School_ <br />
+**2014 -  2016**<br />
 
-* * *
+* Rank on North Sinai Governorate.
+<br />
 
-### Here is an unordered list:
+# Awards
+**March 2022,** _Second Place in Hacktrick Hackathon 2022 In AI Held by DELL technologies,_
+* Led my hackathon team of four members and achieved second place in the hackathon. with a 2000 USD prize. 
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**March 2022,** _AlThuraya MENA Scholarship For Master's Degree of Science at TU Kaiserslautern,_
+* For my academic achievement, AlThuraya Foundation decided to give me a partial scholarship to start my Master's studies at the Technical University of Kaiserslautern. 
 
-### And an ordered list:
+**May 2019,** _First Place in the Technical Innovation Award in Shell Eco-Marathon Asia 2019 in Malaysia,_
+* the GUC Innovators team developed a system for vehicle drivers with physical limitations using a drive-by-wire system controlled via brainwave and facial sensors. 
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**July 2016,** _Full Scholarship for Bachelor's Degree of Engineering,_
+* As I ranked among the students in the North Sinai governorate.  Consequently, this encourages the German University in Cairo ”GUC” to offer me a full scholarship for a bachelor’s degree in Engineering at the university.
+<br />
 
-### And a nested list:
+# Puplication
+Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "Language Identification of Intra-Word Code-Switching for Arabic–English." — _Array 12 (2021): 100104._
+> http://dx.doi.org/10.1016/j.array.2021.100104
+<br />
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# Projects
+**Arabic-English Language Identification on Intra-Word Code-Switching (Bachelor’s Project)**<br />
+ — _Keras, TensorFlow, DyNet, Scikit-learn_
+* Trying to build a deep learning model for detecting the language of the text. including the words that have more than one language on them like ”elgame”. The model task is for segmenting the word into its language segments ”el,game” and detecting every segment language ”ar,en”.
+<br />
 
-### Small image
+**Smart Adaptive Side Mirrors**<br />
+ — _OpenCV, Tensorflow_
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* To make the driver’s vision more active, we built an adaptive side mirror that changes its inside mirror orientation only to save the rear vision fixed for the driver, wherever he moves his head.
+<br />
 
-### Large image
+**Interactive NAO Robot** <br />
+— _NAO Robot, Blockly language, python_
+* Extend a block-based visual language for the NAO Robot to allow children to interact with it in different ways (text, speech, movement, ... etc)
+<br />
 
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
+**Lirten Website** <br />
+— _MERN stack, Agile Development Cycle_
+* Build a full website for Lirten Inc with Frontend and Backend feature the website manages tasks of a freelancer and live events.
+* I worked with  12 people to design, develop and deploy the website.  
+<br />
 
+> For more projects, please check my  [GITHUB ACCOUNT](https://github.com/islammesabah).
+<br />
 
-### Definition lists can be used with HTML syntax.
+# Volunteer
+**GUC Innovators, New Cairo, Egypt**<br />
+— _R&I Team Head_<br />
+**November 2020 - August 2021**
+* Lead the R&I team to get innovative ideas and apply them to our car and show them in Asia shell Eco-Marathon to compete for the Off-Track award.
+<br />
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**IEEE GUC Student Branch, New Cairo, Egypt** <br />
+— _Software Committee Member_<br />
+**October 2019 - July 2020**
+* Discuss and explain software topics with the committee members.
+<br />
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**German University in Cairo, New Cairo, Egypt**<br />
+— _Junior Teaching Assistant_<br />
+**September 2019 - December 2019**
+* Help the main Teaching assistant teach Introduction to Computer science Course.
+<br />
 
-```
-The final element.
-```
+**GUC Innovators, New Cairo, Egypt**
+— _R&I Member_<br />
+**December 2018 - November 2020**
+* Create an android app that connects to the firebase database and updates its content automatically.
+* Trying to get innovative ideas and apply them to our car and show them in the Asia shell Eco-Marathon to compete for the Off-Track award.
+<br />
+
+**German University in Cairo, New Cairo, Egypt**<br />
+— _Junior Teaching Assistant_<br />
+**September 2018 - December 2018**
+
+* Help the main Teaching assistant in teaching Data Structure and Algorithms Course
+
