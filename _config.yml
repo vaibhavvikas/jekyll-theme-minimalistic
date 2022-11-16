@@ -1,7 +1,7 @@
 title: Islam Mesabah
 logo: /assets/img/mypic.jpg
 email: islam.r.mesabah@gmail.com
-description: [ Research Assistant | Computer Science master's student ] at TU Kaiserslautern
+description: Research Assistant, Computer Science master's student at TU Kaiserslautern
 favicon: true
 color-scheme: dark
 
@@ -16,7 +16,7 @@ platforms:
     link: https://github.com/islammesabah
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/islamkaloop/
+    link: https://www.linkedin.com/in/islamkaloop
 
 navigation:
   - name: Readme
