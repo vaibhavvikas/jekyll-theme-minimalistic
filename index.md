@@ -14,7 +14,7 @@ I am interested in the Natural Language Processing and Generation area which is 
 — _Research Assistant_<br />
 **August 2022 - Present**<br />
 
-* Parttime Student working job
+* Evaluating large language models [GPT 3, OPT, BLOOM] on language style transformation.
 <br />
 
 **German University In Cairo, New Cairo, Egypt** <br />
@@ -33,9 +33,8 @@ I am interested in the Natural Language Processing and Generation area which is 
 — _Backend Developer Intern_<br />
 **August 2021 - October 2021**<br />
 
-* Learned new technologies like Laravel.
-* Deal with agile web development life cycle in a real-time project.
 * Build a real-time API that handles data validation, user authentication, and crud operation into a MySQL database using Laravel.
+* Deal with agile web development life cycle in a real-time project.
 <br />
 
 **German University In Cairo, New Cairo, Egypt**<br />
@@ -98,32 +97,6 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 > [http://dx.doi.org/10.1016/j.array.2021.100104](http://dx.doi.org/10.1016/j.array.2021.100104)
 <br />
 
-# Projects
-**Arabic-English Language Identification on Intra-Word Code-Switching (Bachelor’s Project)**<br />
- — _Keras, TensorFlow, DyNet, Scikit-learn_
-* Trying to build a deep learning model for detecting the language of the text. including the words that have more than one language on them like ”elgame”. The model task is for segmenting the word into its language segments ”el,game” and detecting every segment language ”ar,en”.
-<br />
-
-**Smart Adaptive Side Mirrors**<br />
- — _OpenCV, Tensorflow_
-
-* To make the driver’s vision more active, we built an adaptive side mirror that changes its inside mirror orientation only to save the rear vision fixed for the driver, wherever he moves his head.
-<br />
-
-**Interactive NAO Robot** <br />
-— _NAO Robot, Blockly language, python_
-* Extend a block-based visual language for the NAO Robot to allow children to interact with it in different ways (text, speech, movement, ... etc)
-<br />
-
-**Lirten Website** <br />
-— _MERN stack, Agile Development Cycle_
-* Build a full website for Lirten Inc with Frontend and Backend feature the website manages tasks of a freelancer and live events.
-* I worked with  12 people to design, develop and deploy the website.  
-<br />
-
-> For more projects, please check my  [GITHUB ACCOUNT](https://github.com/islammesabah).
-<br />
-
 # Volunteer
 **GUC Innovators, New Cairo, Egypt**<br />
 — _R&I Team Head_<br />
@@ -158,12 +131,11 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 
 # Statistics:
 ## Visitors Map:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=islammesabah.visitor-badge)
 <p>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE"></script>
 </p>
 
-# Github Information:
+## Github Information:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=445)
 
 ![](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark)

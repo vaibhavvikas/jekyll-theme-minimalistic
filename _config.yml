@@ -1,7 +1,7 @@
 title: Islam Mesabah
 logo: /assets/img/mypic.jpg
 email: islam.r.mesabah@gmail.com
-description: Research Assistant, Computer Science master's student at TU Kaiserslautern
+description: "[Research Assistant & Computer Science master's student] @ TU Kaiserslautern"
 favicon: true
 color-scheme: dark
 
@@ -11,12 +11,17 @@ plugins:
   - jemoji
 
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
+  - icon: <i class="fa-brands fa-researchgate"></i>
+    link: https://www.researchgate.net/profile/Islam-Mesabah
+  - icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/islammesabah
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
+  - icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/islamkaloop
+  - icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/islamkaloop
+  - icon: <i class="fa-brands fa-youtube"></i>
+    link: https://www.youtube.com/@islammesabah2317
+    
 
 navigation:
   - name: Home
@@ -30,10 +35,9 @@ navigation:
         link: ./index.html#awards
       - name: Puplication
         link: ./index.html#puplication
-      - name: Projects
-        link: ./index.html#projects
       - name: Volunteer
         link: ./index.html#volunteer
       - name: Statistics
         link: ./index.html#statistics
-  
+  - name: Projects
+    link: ./projects

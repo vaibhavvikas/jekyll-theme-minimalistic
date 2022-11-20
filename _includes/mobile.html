@@ -1,13 +1,4 @@
 <div class="link-wrapper-mobile">
-    {% if site.platforms %}
-    <ul class="link">
-    {%- for platform in site.platforms %}
-    <nobr><a href="{{ platform.link }}" rel="me">{{ platform.icon }}&nbsp;{{ platform.name }}</a>
-    {%- unless forloop.last %}<span style="margin-left: 6px;"></span>{% endunless %}</nobr>
-    {%- endfor %}
-    </ul>
-    {% endif %}
-
     {% if site.navigation %}
     <h3 class="sidebar-h3">Contents:</h3>
     <ul class="content">
