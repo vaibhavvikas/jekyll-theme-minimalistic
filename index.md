@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=islammesabah.visitor-badge&right_color=green)
 # About Me:
 
 I am a research assistant in the Machine Learning Group at TU Kaiserslautern led by Prof. Dr. Marius Kloft and Jun.-Prof. Dr. Sophie Fellenz. I am studying Master's in Computer Science at TU Kaiserslautern. I finished my Bachelor’s degree In Computer science and engineering from The German university in Cairo(GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
@@ -130,11 +130,6 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 * Help the main Teaching assistant in teaching Data Structure and Algorithms Course
 
 # Statistics:
-## Visitors Map:
-<p>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=VCoi5u-VJjXp6qL67lwvyYIdenY98yoqBsm5Dh8AhwE"></script>
-</p>
-
 ## Github Information:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=445)
 
