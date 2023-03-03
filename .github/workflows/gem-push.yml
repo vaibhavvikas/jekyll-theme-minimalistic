@@ -1,7 +1,7 @@
 name: Ruby Gem
 
 on:
-  workflow_dispatch
+  [workflow_dispatch, pull_request]
 
 jobs:
   build:
@@ -13,10 +13,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
+    - name: Set up Ruby 3.0
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6.x
+        ruby-version: '3.0'
+        bundler-cache: true
 
     - name: Build the site in the jekyll/builder container
       run: |
@@ -28,16 +29,18 @@ jobs:
     needs: [ build ]
     name: Publish
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     permissions:
       contents: read
       packages: write
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
+    - name: Set up Ruby 3.0
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6.x
+        ruby-version: '3.0'
+        bundler-cache: true
 
     - name: Publish to GPR
       run: |
