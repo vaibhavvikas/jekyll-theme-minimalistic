@@ -40,26 +40,26 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0'
-        bundler-cache: true
 
     - name: Publish to GPR
       run: |
         mkdir -p $HOME/.gem
         touch $HOME/.gem/credentials
         chmod 0600 $HOME/.gem/credentials
-        printf -- "---\n:github: ${GEM_HOST_API_KEY}" > $HOME/.gem/credentials
+        printf -- "---\n:github: ${GEM_HOST_API_KEY}\n" > $HOME/.gem/credentials
         gem build *.gemspec
         gem push --key github --host https://rubygems.pkg.github.com/${OWNER} *.gem
       env:
         GEM_HOST_API_KEY: "Bearer ${{secrets.ACCESS_TOKEN}}"
         OWNER: ${{ github.repository_owner }}
+      continue-on-error: true
 
     - name: Publish to RubyGems
       run: |
         mkdir -p $HOME/.gem
         touch $HOME/.gem/credentials
         chmod 0600 $HOME/.gem/credentials
-        printf -- "---\n:rubygems_api_key: ${GEM_HOST_API_KEY}" > $HOME/.gem/credentials
+        printf -- "---\n:rubygems_api_key: ${GEM_HOST_API_KEY}\n" > $HOME/.gem/credentials
         gem build *.gemspec
         gem push *.gem
       env:
