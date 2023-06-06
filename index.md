@@ -1,18 +1,24 @@
 ---
 layout: default
 ---
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=islammesabah.visitor-badge&right_color=green)
 # About Me:
 
-I am a research assistant in the Machine Learning Group at TU Kaiserslautern led by Prof. Dr. Marius Kloft and Jun.-Prof. Dr. Sophie Fellenz. I am studying Master's in Computer Science at TU Kaiserslautern. I finished my Bachelor’s degree In Computer science and engineering from The German university in Cairo(GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
+I am a research assistant in the Department of Data Science and its Applications, headed by Professor Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence). I am studying Master’s in Computer Science at Technische Universität Kaiserslautern. I finished his Bachelor’s degree In Computer science and engineering from The German University in Cairo(GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
 
 # Research interests:
-I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with code-switching language data, sentiment analysis, and style transfer. I am also interested in the area of autonomous vehicles.
+I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with Large language models, documents understanding, prompt engineering, code-switching language data, sentiment analysis, and style transfer. I am also interested in the area of autonomous vehicles.
 
 # Experience:
+**Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany**  <br />
+— _Research Assistant_<br />
+**May 2023 - Present**<br />
+
+* Structure PDF files.
+<br />
+
 **Technical University of Kaiserslautern, Kaiserslautern, Germany**  <br />
 — _Research Assistant_<br />
-**August 2022 - Present**<br />
+**August 2022 - May 2023**<br />
 
 * Evaluating large language models [GPT 3, OPT, BLOOM] on language style transformation.
 <br />
@@ -79,6 +85,9 @@ I am interested in the Natural Language Processing and Generation area which is 
 <br />
 
 # Awards
+**October 2022,** _The Deutschlandstipendium for gifted and high-performing students,_
+*  For my academic achievement German government and AWS decided to include me in this scholarship.
+
 **March 2022,** _Second Place in Hacktrick Hackathon 2022 In AI Held by DELL technologies,_
 * Led my hackathon team of four members and achieved second place in the hackathon. with a 2000 USD prize. 
 
@@ -93,11 +102,22 @@ I am interested in the Natural Language Processing and Generation area which is 
 <br />
 
 # Puplication
+Seoudi, Mariam Sherif, **Islam Mesabah**, Mohamed Sabry, and Hassan Soubra. "Virtual Bike Lanes for Smart, Safe, and Green Navigation." — In 2023 IEEE Conference on Power Electronics and Renewable Energy (CPERE), pp. 1-6. IEEE, 2023.
+> [https://ieeexplore.ieee.org/abstract/document/10119537](https://ieeexplore.ieee.org/abstract/document/10119537)
+<br />
+
 Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "Language Identification of Intra-Word Code-Switching for Arabic–English." — _Array 12 (2021): 100104._
 > [http://dx.doi.org/10.1016/j.array.2021.100104](http://dx.doi.org/10.1016/j.array.2021.100104)
 <br />
 
 # Volunteer
+**Egypt Scholars Inc., California, USA**<br />
+— _DAR team member_<br />
+**February 2023 - Present**
+* Held online webinars on social media on different topics:
+    * [Everything about Alexander von Humboldt fellowship](https://www.youtube.com/watch?v=5j1v_0T5fZg&t=5s)
+<br />
+
 **GUC Innovators, New Cairo, Egypt**<br />
 — _R&I Team Head_<br />
 **November 2020 - August 2021**
@@ -128,13 +148,4 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "L
 **September 2018 - December 2018**
 
 * Help the main Teaching assistant in teaching Data Structure and Algorithms Course
-
-# Statistics:
-## Github Information:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact&theme=dark&card_width=445)
-
-![](https://github-readme-stats.vercel.app/api?username=islammesabah&show_icons=true&theme=dark)
-
-![](https://github-readme-streak-stats.herokuapp.com?user=islammesabah&show_icons=true&theme=dark)
-
 
