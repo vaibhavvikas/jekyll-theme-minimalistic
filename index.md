@@ -3,13 +3,13 @@ layout: default
 ---
 # About Me:
 
-I am a research assistant in the Department of Data Science and its Applications, headed by Professor Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence). I am studying Master’s in Computer Science at Technische Universität Kaiserslautern. I finished his Bachelor’s degree In Computer science and engineering from The German University in Cairo(GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
+I am a research assistant in the Department of Data Science and its Applications, headed by Professor Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence). I am studying Master’s in Computer Science at Technische Universität Kaiserslautern. I finished his Bachelor’s degree In Computer science and engineering from The German University in Cairo (GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
 
 # Research interests:
 I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with Large language models, documents understanding, prompt engineering, code-switching language data, sentiment analysis, and style transfer. I am also interested in the area of autonomous vehicles.
 
 # Experience:
-**Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany**  <br />
+**Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany** <br />
 — _Research Assistant_<br />
 **May 2023 - Present**<br />
 
@@ -102,11 +102,11 @@ I am interested in the Natural Language Processing and Generation area which is 
 <br />
 
 # Puplication
-Seoudi, Mariam Sherif, **Islam Mesabah**, Mohamed Sabry, and Hassan Soubra. "Virtual Bike Lanes for Smart, Safe, and Green Navigation." — In 2023 IEEE Conference on Power Electronics and Renewable Energy (CPERE), pp. 1-6. IEEE, 2023.
+Seoudi, Mariam Sherif, **Islam Mesabah**, Mohamed Sabry, and Hassan Soubra. **"Virtual Bike Lanes for Smart, Safe, and Green Navigation."** — In 2023 IEEE Conference on Power Electronics and Renewable Energy (CPERE), pp. 1-6. IEEE, 2023.
 > [https://ieeexplore.ieee.org/abstract/document/10119537](https://ieeexplore.ieee.org/abstract/document/10119537)
 <br />
 
-Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. "Language Identification of Intra-Word Code-Switching for Arabic–English." — _Array 12 (2021): 100104._
+Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. **"Language Identification of Intra-Word Code-Switching for Arabic–English."** — _Array 12 (2021): 100104._
 > [http://dx.doi.org/10.1016/j.array.2021.100104](http://dx.doi.org/10.1016/j.array.2021.100104)
 <br />
 
