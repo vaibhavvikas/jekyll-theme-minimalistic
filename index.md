@@ -115,7 +115,8 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. **
 — _DAR team member_<br />
 **February 2023 - Present**
 * Held online webinars on social media on different topics:
-    * [Everything about Alexander von Humboldt fellowship](https://www.youtube.com/watch?v=5j1v_0T5fZg&t=5s)
+    * [Everything about Alexander von Humboldt fellowship](https://www.youtube.com/watch?v=5j1v_0T5fZg&t)
+    * [Deep Learning Applications in Computer Vision: 3D Reconstruction using Transformers and GNNs](https://www.youtube.com/watch?v=jbkLTLBMgiA)
 <br />
 
 **GUC Innovators, New Cairo, Egypt**<br />

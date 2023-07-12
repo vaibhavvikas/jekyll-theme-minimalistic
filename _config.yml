@@ -37,7 +37,5 @@ navigation:
         link: ./index.html#puplication
       - name: Volunteer
         link: ./index.html#volunteer
-      - name: Statistics
-        link: ./index.html#statistics
   - name: Projects
     link: ./projects
