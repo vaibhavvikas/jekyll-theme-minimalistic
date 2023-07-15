@@ -1,0 +1,233 @@
+/*
+H -> hue
+L -> luminosity
+S -> saturation
+clr -> color
+bg -> background
+hvr -> hover
+*/
+:root {
+  --code-d14: #d14;
+  --code-aa0000: #aa0000;
+  --code-990000: #990000;
+  --code-009999: #009999;
+  --code-008080: #008080;
+  --code-3c5d5d: #3c5d5d;
+  --code-009926: #009926;
+  --code-990073: #990073;
+  --code-800080: #800080;
+  --code-445588: #445588;
+  --code-000080: #000080;
+  --code-aaaaaa: #aaaaaa;
+  --code-999999: #999999;
+  --code-888888: #888888;
+  --code-555555: #555555;
+}
+
+:root {
+  --L-a-text-hover-change: 0.8;
+  --clr-a-text: hsl(200, 100%, var(--L-a-text));
+  --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+  --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));
+  --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
+  --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
+  --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
+  --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
+  --clr-h2: hsl(0, 0%, var(--L-h2));
+  --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
+  --clr-text: hsl(0, 0%, var(--L-text));
+  --clr-code-text: hsl(0, 0%, var(--L-code-text));
+  --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
+  --clr-code-border: hsl(0, 0%, var(--L-code-border));
+  --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
+  --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
+  --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
+  --clr-kbd-border-bottom-and-shadow: hsl(210, 8.2%, var(--L-kbd-border-bottom-and-shadow));
+  --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
+  --clr-bg: hsl(0, 0%, var(--L-bg));
+  --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));
+  --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));
+  --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt));
+  --clr-card-bg: hsl(0, 0%, var(--L-card-bg));
+  color-scheme: dark;
+  --L-a-text: 60%;
+  --L-buttons-main-bg: 17%;
+  --L-buttons-main-border: 26%;
+  --L-buttons-main-text: 76%;
+  --L-buttons-main-text-hover: 80%;
+  --L-h1-and-bold: 90%;
+  --L-h2: 83%;
+  --L-h-3-6: 76%;
+  --L-text: 70%;
+  --L-code-text: 80%;
+  --L-code-bg: 3%;
+  --L-code-border: 5%;
+  --L-code-bold-text: 100%;
+  --L-kbd-bg: 30%;
+  --L-kbd-border: 45%;
+  --L-kbd-border-bottom-and-shadow: 55%;
+  --L-kbd-text: 100%;
+  --L-splitter-blockquote-and-section: 15%;
+  --L-bg: 10%;
+  --L-small-in-a: 60%;
+  --L-table-header-and-dt: 90%;
+  --L-card-bg: 15%;
+  --clr-w-text: var(--L-w-text);
+  --clr-err-text: var(--L-err-text);
+  --clr-err-bg: var(--L-err-bg);
+  --clr-cd-text: var(--L-cd-text);
+  --clr-cp-text: var(--L-cp-text);
+  --clr-nt-text: var(--L-nt-text);
+  --clr-nn-text: var(--L-nn-text);
+  --clr-nc-text: var(--L-nn-text);
+  --clr-no-text: var(--L-no-text);
+  --clr-na-text: var(--L-na-text);
+  --clr-o-text: var(--L-o-text);
+  --clr-p-text: var(--L-p-text);
+  --clr-gi-text: var(--L-gi-text);
+  --clr-gd-text: var(--L-gd-text);
+  --clr-gh-text: var(--L-gh-text);
+  --clr-k-text: var(--L-k-text);
+  --clr-kc-text: var(--L-kc-text);
+  --clr-kt-text: var(--L-kt-text);
+  --clr-kd-text: var(--L-kd-text);
+  --clr-s-text: var(--L-s-text);
+  --clr-sr-text: var(--L-sr-text);
+  --clr-si-text: var(--L-si-text);
+  --clr-se-text: var(--L-se-text);
+  --clr-ss-text: var(--L-ss-text);
+  --clr-m-text: var(--L-m-text);
+  --L-w-text: hsl(60, 30%, 96%);
+  --L-err-text: hsl(231, 15%, 18%);
+  --L-err-bg: hsl(326, 100%, 74%);
+  --L-cd-text: hsl(0, 0%, 80%);
+  --L-cp-text: hsl(135, 94%, 65%);
+  --L-nt-text: hsl(135, 94%, 65%);
+  --L-nn-text: hsl(135, 94%, 65%);
+  --L-nc-text: hsl(135, 94%, 65%);
+  --L-no-text: hsl(135, 94%, 65%);
+  --L-na-text: hsl(191, 97%, 77%);
+  --L-o-text: hsl(135, 94%, 96%);
+  --L-p-text: hsl(135, 94%, 96%);
+  --L-gi-text: hsl(65, 92%, 76%);
+  --L-gd-text: hsl(31, 100%, 74%);
+  --L-gh-text: hsl(191, 97%, 77%);
+  --L-k-text: hsl(265, 89%, 78%);
+  --L-kc-text: hsl(31, 100%, 71%);
+  --L-kk-text: hsl(31, 100%, 71%);
+  --L-kd-text: hsl(31, 100%, 71%);
+  --L-s-text: hsl(65, 92%, 76%);
+  --L-sr-text: hsl(191, 97%, 77%);
+  --L-si-text: hsl(0, 100%, 67%);
+  --L-se-text: hsl(0, 100%, 67%);
+  --L-ss-text: hsl(65, 92%, 76%);
+  --L-m-text: hsl(65, 92%, 76%);
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --L-a-text: 60%;
+    --L-buttons-main-bg: 17%;
+    --L-buttons-main-border: 26%;
+    --L-buttons-main-text: 76%;
+    --L-buttons-main-text-hover: 80%;
+    --L-h1-and-bold: 90%;
+    --L-h2: 83%;
+    --L-h-3-6: 76%;
+    --L-text: 70%;
+    --L-code-text: 80%;
+    --L-code-bg: 3%;
+    --L-code-border: 5%;
+    --L-code-bold-text: 100%;
+    --L-kbd-bg: 30%;
+    --L-kbd-border: 45%;
+    --L-kbd-border-bottom-and-shadow: 55%;
+    --L-kbd-text: 100%;
+    --L-splitter-blockquote-and-section: 15%;
+    --L-bg: 10%;
+    --L-small-in-a: 60%;
+    --L-table-header-and-dt: 90%;
+    --L-card-bg: 15%;
+    --L-w-text: hsl(60, 30%, 96%);
+    --L-err-text: hsl(231, 15%, 18%);
+    --L-err-bg: hsl(326, 100%, 74%);
+    --L-cd-text: hsl(0, 0%, 80%);
+    --L-cp-text: hsl(135, 94%, 65%);
+    --L-nt-text: hsl(135, 94%, 65%);
+    --L-nn-text: hsl(135, 94%, 65%);
+    --L-nc-text: hsl(135, 94%, 65%);
+    --L-no-text: hsl(135, 94%, 65%);
+    --L-na-text: hsl(191, 97%, 77%);
+    --L-o-text: hsl(135, 94%, 96%);
+    --L-p-text: hsl(135, 94%, 96%);
+    --L-gi-text: hsl(65, 92%, 76%);
+    --L-gd-text: hsl(31, 100%, 74%);
+    --L-gh-text: hsl(191, 97%, 77%);
+    --L-k-text: hsl(265, 89%, 78%);
+    --L-kc-text: hsl(31, 100%, 71%);
+    --L-kk-text: hsl(31, 100%, 71%);
+    --L-kd-text: hsl(31, 100%, 71%);
+    --L-s-text: hsl(65, 92%, 76%);
+    --L-sr-text: hsl(191, 97%, 77%);
+    --L-si-text: hsl(0, 100%, 67%);
+    --L-se-text: hsl(0, 100%, 67%);
+    --L-ss-text: hsl(65, 92%, 76%);
+    --L-m-text: hsl(65, 92%, 76%);
+  }
+}
+@media print, (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --L-a-text: 35%;
+    --L-buttons-main-bg: 96%;
+    --L-buttons-main-border: 88%;
+    --L-buttons-main-text: 40%;
+    --L-buttons-main-text-hover: 38%;
+    --L-h1-and-bold: 13%;
+    --L-h2: 22%;
+    --L-h-3-6: 29%;
+    --L-text-bold: 36%;
+    --L-text: 45%;
+    --L-code-text: 20%;
+    --L-code-bg: 97%;
+    --L-code-border: 90%;
+    --L-code-bold-text: 0%;
+    --L-kbd-bg: 98%;
+    --L-kbd-border: 80%;
+    --L-kbd-border-bottom-and-shadow: 62%;
+    --L-kbd-text: 30%;
+    --L-bg: 100%;
+    --L-splitter-blockquote-and-section: 90%;
+    --L-small-in-a: 47%;
+    --L-table-header-and-dt: 27%;
+    --L-card-bg: 97%;
+    --L-w-text: hsl(0, 0%, 20%);
+    --L-err-text: hsl(231, 15%, 78%);
+    --L-err-bg: hsl(326, 100%, 24%);
+    --L-cd-text: hsl(0, 0%, 20%);
+    --L-cp-text: hsl(135, 94%, 25%);
+    --L-nt-text: hsl(135, 94%, 25%);
+    --L-nn-text: hsl(135, 94%, 25%);
+    --L-nc-text: hsl(135, 94%, 25%);
+    --L-no-text: hsl(135, 94%, 25%);
+    --L-na-text: hsl(191, 97%, 37%);
+    --L-o-text: hsl(135, 94%, 16%);
+    --L-p-text: hsl(135, 94%, 16%);
+    --L-gi-text: hsl(130, 100%, 21%);
+    --L-gd-text: hsl(31, 100%, 24%);
+    --L-gh-text: hsl(191, 97%, 27%);
+    --L-k-text: hsl(265, 89%, 28%);
+    --L-kc-text: hsl(31, 100%, 21%);
+    --L-kk-text: hsl(31, 100%, 21%);
+    --L-kd-text: hsl(31, 100%, 21%);
+    --L-s-text: hsl(96, 94%, 20%);
+    --L-sr-text: hsl(191, 97%, 27%);
+    --L-si-text: hsl(0, 100%, 37%);
+    --L-se-text: hsl(0, 100%, 37%);
+    --L-ss-text: hsl(130, 100%, 21%);
+    --L-m-text: hsl(130, 100%, 21%);
+  }
+}
+
+/*# sourceMappingURL=colors-auto.css.map */
