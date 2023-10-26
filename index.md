@@ -3,10 +3,10 @@ layout: default
 ---
 # About Me:
 
-I am a research assistant in the Department of Data Science and its Applications, headed by Professor Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence). I am studying Master’s in Computer Science at Technische Universität Kaiserslautern. I finished his Bachelor’s degree In Computer science and engineering from The German University in Cairo (GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
+I am a research assistant in the Department of Data Science and its Applications, headed by Professor Sebastian Vollmer at DFKI (German Research Center for Artificial Intelligence). I am studying Master’s in Computer Science at Technische Universität Kaiserslautern. I finished my Bachelor’s degree In Computer science and engineering from The German University in Cairo (GUC), Egypt. I have also worked in the GUC as a teaching assistant after graduating.
 
 # Research interests:
-I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with Large language models, documents understanding, prompt engineering, code-switching language data, sentiment analysis, and style transfer. I am also interested in the area of autonomous vehicles.
+I am interested in the Natural Language Processing and Generation area which is a subfield of Machine Learning. I love working with Large language models, documents understanding, prompt engineering, code-switching language data, sentiment analysis, and style transfer.
 
 # Experience:
 **Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany** <br />
