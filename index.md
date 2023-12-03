@@ -117,6 +117,7 @@ Sabty, Caroline, **Islam Mesabah**, Özlem Çetinoğlu, and Slim Abdennadher. **
 * Held online webinars on social media on different topics:
     * [Everything about Alexander von Humboldt fellowship](https://www.youtube.com/watch?v=5j1v_0T5fZg&t)
     * [Deep Learning Applications in Computer Vision: 3D Reconstruction using Transformers and GNNs](https://www.youtube.com/watch?v=jbkLTLBMgiA)
+    * [Behind the Curtain: The Mechanics, Merits, and Risks of Large Language Models](https://www.youtube.com/watch?v=_aFo82OJwJs)
 <br />
 
 **GUC Innovators, New Cairo, Egypt**<br />
