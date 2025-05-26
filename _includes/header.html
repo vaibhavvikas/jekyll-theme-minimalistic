@@ -17,6 +17,7 @@
     <nobr><a href="{{ platform.link }}" rel="me">{{ platform.icon }}&nbsp;{{ platform.name }}</a>
     {%- unless forloop.last %}<span style="margin-left: 6px;"></span>{% endunless %}</nobr>
     {%- endfor %}
+    <button id="theme-toggle-button" style="background:none; border:none; cursor:pointer; color:var(--text-color);"><i class="fas fa-sun"></i></button>
     </ul>
     {% endif %}
 
@@ -31,7 +32,7 @@
     <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
     {% endif %} -->
 
-    <p class="view"><a href="https://scholar.google.com/citations?user=qCA8zV4AAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+    <p class="view"><a href="https://scholar.google.com/citations?user=qCA8zV4AAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>
 {% endunless %}
 
 {% include sidebar.html %}

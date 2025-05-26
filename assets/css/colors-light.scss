@@ -3,7 +3,7 @@
 
 @import "colors";
 
-:root {
+html.light-mode {
   @include colors;
   @include light-colors;
   @include code-highlights;
